@@ -3,15 +3,18 @@
     {
       "id": 1,
       "slug": "joint-chews-for-dogs",
-      "title": "Joint Care Chews",
-      "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "title": "Joint Care Chew",
+      "vendor": "Gerah",
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://thepetlabco.com/products/joint-chews-for-dogs",
       "image_src": "https://via.placeholder.com/300x300.png?text=Joint+Care+Chews",
       "option_value": "Single Pack",
       "sku": "JCSC1",
-      "price": 42.29,
+      "price": 43.29,
       "subscription_discount": 25,
       "subscription": true
     },
@@ -20,13 +23,16 @@
       "slug": "skin-chews",
       "title": "Dental Chews (Rawhide)",
       "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://thepetlabco.com/products/skin-coat",
       "image_src": "https://via.placeholder.com/300x300.png?text=Dental+Chews",
       "option_value": "Single Pack",
       "sku": "DHC1",
-      "price": 29.95,
+      "price": 30,
       "subscription_discount": 25,
       "subscription": true
     },
@@ -34,8 +40,11 @@
       "id": 3,
       "slug": "calming-chews",
       "title": "Calming Chews",
-      "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "vendor": "Gerah",
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/calming-chews",
       "image_src": "https://via.placeholder.com/300x300.png?text=Calming+Chews",
@@ -50,7 +59,10 @@
       "slug": "heart-health-chews",
       "title": "Heart Health Chews",
       "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/heart-health-chews",
       "image_src": "https://via.placeholder.com/300x300.png?text=Heart+Health+Chews",
@@ -65,7 +77,10 @@
       "slug": "Probiotic Chews",
       "title": "Probiotic Chews",
       "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://thepetlabco.com/products/probiotic-chews-dogs",
       "image_src": "https://via.placeholder.com/300x300.png?text=Probiotic+Chews",
@@ -80,7 +95,11 @@
       "slug": "shedding-formula",
       "title": "Shedding Formula",
       "vendor": "PetLab",
-      "tags": ["Formula", "Cat", "Dog"],
+      "tags": [
+        "Formula",
+        "Cat",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/shedding-formula",
       "image_src": "https://via.placeholder.com/300x300.png?text=Shedding+Formula",
@@ -95,7 +114,11 @@
       "slug": "dental-formula",
       "title": "Dental Formula",
       "vendor": "PetLab",
-      "tags": ["Formula", "Cat", "Dog"],
+      "tags": [
+        "Formula",
+        "Cat",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/dental-formula",
       "image_src": "https://via.placeholder.com/300x300.png?text=Dental+Formula",
@@ -110,7 +133,11 @@
       "slug": "wild-alaskan-salmon-formula",
       "title": "Wild Alaskan Salmon Oil",
       "vendor": "PetLab",
-      "tags": ["Shampoo", "Cat", "Dog"],
+      "tags": [
+        "Shampoo",
+        "Cat",
+        "Dog"
+      ],
       "published": true,
       "url": "https://thepetlabco.com/products/wild-alaskan-salmon-formula",
       "image_src": "https://via.placeholder.com/300x300.png?text=Wild+Alaskan+Salmon+Oil",
@@ -125,7 +152,11 @@
       "slug": "itch-relief-chews",
       "title": "Itch Relief Chews",
       "vendor": "PetLab",
-      "tags": ["Chews", "Cat", "Dog"],
+      "tags": [
+        "Chews",
+        "Cat",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/itch-relief-chews",
       "image_src": "https://via.placeholder.com/300x300.png?text=Itch+Relief+Chews",
@@ -140,7 +171,11 @@
       "slug": "clear-eyes",
       "title": "Clear Eyes Chews",
       "vendor": "PetLab",
-      "tags": ["Formula", "Cat", "Dog"],
+      "tags": [
+        "Formula",
+        "Cat",
+        "Dog"
+      ],
       "published": true,
       "url": "https://www.thepetlabco.com/products/cat-dog-eye-cleaner",
       "image_src": "https://via.placeholder.com/300x300.png?text=Clear+Eyes+Chews",
@@ -155,13 +190,16 @@
       "slug": "dog-paw-balm",
       "title": "Palm Balm",
       "vendor": "PetLab",
-      "tags": ["Chews", "Dog"],
+      "tags": [
+        "Chews",
+        "Dog"
+      ],
       "published": true,
       "url": "https://thepetlabco.com/products/dog-paw-balm",
       "image_src": "https://cdn.builder.io/api/v1/image/assets%2F08d8ed1927034a9791a787768e108aa6%2F1f0ef0c7cde74d1abeb8ae6af6bf0d08",
       "option_value": "Value Pack",
       "sku": "IRC4",
-      "price": 42.0,
+      "price": 42,
       "subscription_discount": "",
       "subscription": false
     },
@@ -170,7 +208,10 @@
       "slug": "clear-eyes-for-cats",
       "title": "Clear Eyes Cats",
       "vendor": "PetLab",
-      "tags": ["Formula", "Cat"],
+      "tags": [
+        "Formula",
+        "Cat"
+      ],
       "published": false,
       "url": "https://www.thepetlabco.com/products/cat-eye-cleaner",
       "image_src": "https://via.placeholder.com/300x300.png?text=Clear+Eyes+Cats",
@@ -179,6 +220,95 @@
       "price": 42.29,
       "subscription_discount": 25,
       "subscription": true
+    },
+    {
+      "title": "Dog Toys",
+      "price": 50,
+      "vendor": "Gerah",
+      "subscription": true,
+      "image": "",
+      "tags": [
+        "Toy",
+        "Chew",
+        "Dog"
+      ],
+      "id": 13
+    },
+    {
+      "title": "Chew Toys",
+      "price": 40,
+      "vendor": "PetLab",
+      "subscription": false,
+      "image": "\"\"",
+      "tags": [
+        "Cat",
+        "Toy"
+      ],
+      "id": 14
+    },
+    {
+      "title": "Cat Toys",
+      "price": 45,
+      "vendor": "PetLab",
+      "subscription": true,
+      "image": "",
+      "tags": [
+        "Cat",
+        "Toy"
+      ],
+      "id": 15
+    },
+    {
+      "title": "Dog and Cat Toys",
+      "price": 50,
+      "vendor": "PetLab",
+      "subscription": true,
+      "image": "\"\"",
+      "tags": [
+        "Cat",
+        "Toy",
+        "Dog",
+        "Chew"
+      ],
+      "id": 16
+    },
+    {
+      "title": "Chews",
+      "price": 20,
+      "vendor": "PetLab",
+      "subscription": false,
+      "image": "\"\"",
+      "tags": [
+        "Cat",
+        "Toy",
+        "Dog",
+        "Chew"
+      ],
+      "id": 17
+    },
+    {
+      "title": "Cat Food",
+      "price": 150,
+      "vendor": "Gerah",
+      "subscription": true,
+      "image": "\"\"",
+      "tags": [
+        "Cat",
+        "Food"
+      ],
+      "id": 18
+    },
+    {
+      "title": "Dog Food",
+      "price": 160,
+      "vendor": "Gerah",
+      "subscription": true,
+      "image": "",
+      "tags": [
+        "Dog",
+        "Food"
+      ],
+      "id": 19
     }
   ]
 }
