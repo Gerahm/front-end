@@ -222,10 +222,10 @@
       "subscription": true
     },
     {
-      "title": "Dog Toys",
-      "price": 50,
+      "title": "Dog Toy",
+      "price": 55,
       "vendor": "Gerah",
-      "subscription": true,
+      "subscription": false,
       "image": "",
       "tags": [
         "Toy",
@@ -309,6 +309,18 @@
         "Food"
       ],
       "id": 19
+    },
+    {
+      "title": "Cat Bed",
+      "price": 130,
+      "vendor": "PetLab",
+      "subscription": true,
+      "image": "",
+      "tags": [
+        "Bed",
+        "Cat"
+      ],
+      "id": 20
     }
   ]
 }

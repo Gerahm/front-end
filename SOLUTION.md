@@ -48,6 +48,8 @@ Sorting:
   -when clicking on a column it will set the sortBy to the column id and the sortOrder to ascending. And arrow button will change to indicate the sorting order. The same thing happens when clicking on the same column again, it will change the sorting order to descending.
   -same thing happens the URL parameter is set to new sortBy and sortOrder params. Read by React Query and invalidates the old data then new data is fetched. Page will re-render and the data table will display the newly sorted data.
 
-Solutions for each feature:
-
-- I called API enpoints
+Editing and Creatinng Product:
+-used useMutation hook to create and edit the product, It invalidates the old data and fetches the new data.
+-I can also handle Success and Error states for the mutation.I called toaster to show the success and error messages.
+-I also used PATCH for Editting the product. And POST for Creating the product.
+-I used PATH because it makes sure it wont update the whole product object, it will only update the fields that are changed.
