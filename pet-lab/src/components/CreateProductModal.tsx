@@ -26,7 +26,7 @@ const initialState: Omit<Product, 'id'> = {
   price: 0,
   vendor: '',
   subscription: false,
-  image: '',
+  image_src: '',
   tags: [],
 };
 
@@ -73,7 +73,7 @@ export function CreateProductModal() {
   };
 
   const handleSave = () => {
-    if (productData.image && !isValidImageUrl(productData.image)) {
+    if (productData.image_src && !isValidImageUrl(productData.image_src)) {
       toast.error('Invalid Image URL', {
         description: 'Please provide a valid web URL or leave the field empty.',
       });
@@ -137,13 +137,13 @@ export function CreateProductModal() {
             />
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
-            <Label htmlFor="image" className="text-right">
+            <Label htmlFor="image_src" className="text-right">
               Image URL
             </Label>
             <Input
-              id="image"
-              name="image"
-              value={productData.image}
+              id="image_src"
+              name="image_src"
+              value={productData.image_src}
               onChange={handleInputChange}
               className="col-span-3"
             />

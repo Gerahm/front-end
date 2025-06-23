@@ -1,6 +1,6 @@
 export interface Product {
-  id: string;
-  image: string;
+  id: number;
+  image_src: string;
   title: string;
   price: number;
   tags: string[];
@@ -144,7 +144,7 @@ export async function fetchFromUrl(url: string): Promise<ApiResponse<Product>> {
 }
 
 export async function updateProduct(
-  productId: string,
+  productId: number,
   productData: Partial<Product>
 ): Promise<Product> {
   const res = await fetch(`http://localhost:3001/products/${productId}`, {

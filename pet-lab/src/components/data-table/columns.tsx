@@ -23,7 +23,7 @@ export const columns: ColumnDef<Product>[] = [
     header: 'Image',
     cell: ({ row }) => {
       const product = row.original;
-      return <ProductImage src={product.image} alt={product.title} />;
+      return <ProductImage src={product.image_src} alt={product.title} />;
     },
   },
   {

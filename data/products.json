@@ -300,9 +300,9 @@
     },
     {
       "title": "Dog Food",
-      "price": 160,
+      "price": 165,
       "vendor": "Gerah",
-      "subscription": true,
+      "subscription": false,
       "image": "",
       "tags": [
         "Dog",
@@ -321,6 +321,19 @@
         "Cat"
       ],
       "id": 20
+    },
+    {
+      "title": "Dog and Cat Wipes",
+      "price": 60,
+      "vendor": "PetLab",
+      "subscription": true,
+      "image_src": "",
+      "tags": [
+        "Wipe",
+        "Cat",
+        "Dog"
+      ],
+      "id": 21
     }
   ]
 }
